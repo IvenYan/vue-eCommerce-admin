@@ -1,0 +1,2 @@
+export const CHANGETITLE = 'CHANGETITLE';
+export const CHANGEHEIGHT ='CHANGEHEIGHT';
