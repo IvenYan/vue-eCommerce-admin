@@ -22,9 +22,9 @@ axios.interceptors.response.use(
 );
 
 // 远程服务接口路径
-export const appInterface = 'http://148.70.219.244:8080/';
+// export const appInterface = 'http://148.70.219.244:8080/';
 // 本地接口路径
-// export const appInterface = 'http://localhost:8080/';
+export const appInterface = 'http://localhost:8080/';
 // 图片前缀
 export const baseImage = 'http://wechatcool.xyz/ecommerce_backend/images/'
 
